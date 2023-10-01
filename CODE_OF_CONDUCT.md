@@ -1,1 +1,0 @@
-/_nuxt/assets/CoC.txt
